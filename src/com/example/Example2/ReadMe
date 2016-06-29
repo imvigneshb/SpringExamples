@@ -1,0 +1,3 @@
+Example2 :
+This example is to demonstrate the use of ApplicationContext.
+ApplicationContext Contains same feature as Bean Factory and additional features.
